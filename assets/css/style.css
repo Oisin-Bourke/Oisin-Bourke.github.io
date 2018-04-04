@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto+Slab');
+
+/*--------------------Background Colours----*/
+
+.bg-colour-name-title{
+    background-color: #41AAC3;
+}
+
+.menu-colour-home{
+    background-color: #ED5233;
+}
+
+.menu-colour-resume{
+     background-color: #F8CB37;
+}
+
+.menu-colour-contact{
+     background-color: #2959A1;
+}
+
+.menu-colour-downlaod-cv{
+     background-color: #7FBA4D;
+}
+
+.content-header{
+    background-color:#fafafa;
+}
+
+footer{
+    background-color: #40A9C4;
+}
+
+/*--------------General Formatting---------*/
+
+h1,
+h2,
+h3{
+    margin: 0;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+body{
+    font-family:'Roboto Slab', serif;
+}
+/*-----------------------Header-----------*/
+
+header{
+    margin:0;
+}
+
+.logo-col{
+    padding: 0;
+    text-decoration: none;
+}
+
+.logo-col a{
+    text-decoration: none;
+}
+
+.logo{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+    min-height: 120px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+    color: #fafafa;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.nav-col{
+    padding: 0;
+}
+
+#nav{
+    margin: 0;
+}
+
+#nav li{
+    padding: 0;
+}
+
+.menu-item{
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+
+.menu-item a{
+    width: 100%;
+    text-decoration: none;
+    color: #ffffff;
+    height: 120px;
+}
+
+.menu-item a i{
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+.menu-item span{
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    font-family: 'Roboto slab', serif;
+}
+
+/*------------------Hover.css--------------*/
+
+.hvr-sweep-to-bottom:before{
+    background: rgba(0, 0, 0, 0.2);
+    height: 120px;
+}
+
+/*---------------Content--------------------*/
+
+.content-wrapper{
+    padding: 0;
+}
+
+.content-header{
+    padding-top: 30px;
+    min-height: 120px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    color: black;
+    font-weight: normal;
+    text-align: center;
+}
+
+/*---------------Footer--------------------*/
+
+footer{
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+}
+
+.footer-wrapper{
+    padding: 0;
+}
+
+.footer-details{
+    margin:20px;
+}
+
+.social-links{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.social-links li a i{
+    padding: 8px;
+    font-size: 35px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover{
+    color: #ED5233;
+}
+
+.social-link-item{
+    margin: 8px;
+}
+
+.footer-contact{
+    list-style-type: none;
+    text-align: center;
+}
+
+.footer-contact li a {
+    text-decoration: none;
+    color: #fafafa; 
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.footer-contact li a:hover{
+    color: #ED5233;
+    text-decoration: none;
+}
+
