@@ -10,15 +10,15 @@
     background-color: #ED5233;
 }
 
-.menu-colour-resume{
+.menu-colour-reviews{
      background-color: #F8CB37;
 }
 
-.menu-colour-contact{
+.menu-colour-features{
      background-color: #2959A1;
 }
 
-.menu-colour-downlaod-cv{
+.menu-colour-members-club{
      background-color: #7FBA4D;
 }
 
@@ -26,7 +26,7 @@
     background-color:#fafafa;
 }
 
-footer{
+.footer-wrapper{
     background-color: #40A9C4;
 }
 
@@ -45,6 +45,7 @@ h3{
 body{
     font-family:'Roboto Slab', serif;
 }
+
 /*-----------------------Header-----------*/
 
 header{
@@ -118,17 +119,15 @@ header{
     font-family: 'Roboto slab', serif;
 }
 
-/*------------------Hover.css--------------*/
+/*---------------Content-Home-Page--------------------*/
 
-.hvr-sweep-to-bottom:before{
-    background: rgba(0, 0, 0, 0.2);
-    height: 120px;
+.home-latest-review{
+    padding-bottom: 20px;
 }
 
-/*---------------Content--------------------*/
-
 .content-wrapper{
-    padding: 0;
+    margin: 10px;
+    padding: 10px;
 }
 
 .content-header{
@@ -141,20 +140,62 @@ header{
     text-align: center;
 }
 
+.media{
+    padding: 15px;
+    margin: 15px;
+}
+
+.beer-chart ol li{
+    margin-left: 15px;
+    font-size: 18px;
+    padding-left: 15px;
+}
+
+.beer-chart-item{
+    padding: 10px;
+}
+
+/*---------------Content-Reviews-Page--------------------*/
+
+/*---------------Content-Features-Page--------------------*/
+.feature-item{
+    margin-top:20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+
 /*---------------Footer--------------------*/
 
-footer{
+.footer-wrapper{
+    padding: 10px;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
 }
 
-.footer-wrapper{
-    padding: 0;
-}
-
 .footer-details{
     margin:20px;
+}
+
+.contact-wrapper{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.contact-wrapper a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #fafafa;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.contact-wrapper a:hover{
+    color: #ED5233;
 }
 
 .social-links{
@@ -183,22 +224,9 @@ footer{
     margin: 8px;
 }
 
-.footer-contact{
-    list-style-type: none;
+.footer-sign-in{
+    padding-bottom: 15px;
+    padding-top: 15px;
     text-align: center;
-}
-
-.footer-contact li a {
-    text-decoration: none;
-    color: #fafafa; 
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.footer-contact li a:hover{
-    color: #ED5233;
-    text-decoration: none;
 }
 
