@@ -63,7 +63,7 @@ body{
 .rating{
     color: #F8CB37 ;
 }
-/*-----------------------Header-----------*/
+/*----------------------Header Nav-----------*/
 
 header{
     margin:0;
@@ -136,7 +136,7 @@ header{
     font-family: 'Roboto slab', serif;
 }
 
-/*---------------Content-Home-Page--------------------*/
+/*---------------Home-Page--------------------*/
 
 .home-latest-review{
     padding-bottom: 20px;
@@ -176,26 +176,27 @@ header{
     padding: 5px;
 }
 
-/*---------------Content-Reviews-Page--------------------*/
+/*---------------Reviews Page-------------------*/
 
-/*---------------Content-Features-Page--------------------*/
+/*---------------Features Page--------------------*/
 .feature-item{
     margin-top:20px;
     margin-bottom: 30px;
     padding: 20px;
 }
 
-/*---------------Content-Members-Page--------------------*/
+/*----------------Members Page--------------------*/
 .rating-member{
     color: #F8CB37;
     float: right;
+    clear: right;
 }
 
 .list-group-membership li{
     font-size: 17.5px;
 }
 
-/*---------------Footer--------------------*/
+/*----------------Footer Nav--------------------*/
 
 .footer-wrapper{
     padding: 10px;
@@ -260,3 +261,12 @@ header{
     text-align: center;
 }
 
+/*----------------@media --------------------*/
+
+@media(max-width: 480px){
+  
+  blockquote{
+      font-size: 15.5px !important;
+  }  
+
+}
