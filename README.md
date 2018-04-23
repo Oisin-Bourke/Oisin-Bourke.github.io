@@ -6,7 +6,7 @@ Home page screenshot:
 
 Home page screenshot mobile:
 
-![irish craft brew review homepage](/assets/images/ScreenShot_Project1_XS.png)
+![irish craft brew review homepage mobile](/assets/images/ScreenShot_Project1_XS.png)
 
 Description:
 
@@ -46,9 +46,11 @@ suvery monkey iframe fields);
 7) Bootstrap javascript modal pup up window (for contact form);
 8) and, modern Roboto Slab and Lato from Google Fonts ;
 
-Wireframe:
+Wireframe planning:
 
-![wireframe images](/assets/images/Wireframe_Mockup_Project1.pdf)
+![wireframe image](/assets/images/Wireframe_Mockup_Project1-1.jpg)
+![wireframe image](/assets/images/Wireframe_Mockup_Project1-2.jpg)
+![wireframe image](/assets/images/Wireframe_Mockup_Project1-3.jpg)
 
 GitHub project link: https://github.com/Oisin-Bourke/code-institute-project-1 
 
