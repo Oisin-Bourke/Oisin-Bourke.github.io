@@ -43,3 +43,23 @@ The project was tested to ensure integrity accross all platforms.
 Use Git & GitHub for version control. Each new piece of functionality should be in a separate commit (did not maintain good version control practice)
 
 Deploy the final version of your code to a hosting platform such as GitHub Pages (TBC)
+
+Project Title: Irish Craft Brew Review.
+
+Include Project Screenshot (Only Home page screenshot) 
+
+![irish craft brew review homepage](/assets/images/Screenshot_Project1 .png)
+
+Write short description about project and set of features it has.
+
+Technologies and Dependencies
+HTML5
+CSS3 Bootstrap 3 FontAwesome ...
+
+Wireframes
+Put here wireframe images
+Project Link
+Provide here project link
+Tests and Fixes
+Include HTML Validator Result Link (https://validator.w3.org/)
+Include CSS Validator Result Link (https://jigsaw.w3.org/css-validator/)
