@@ -48,7 +48,7 @@ Project Title: Irish Craft Brew Review.
 
 Include Project Screenshot (Only Home page screenshot) 
 
-![irish craft brew review homepage](/assets/images/Screenshot_Project1 .png)
+![irish craft brew review homepage](/assets/images/ScreenShot_Project1.png)
 
 Write short description about project and set of features it has.
 
