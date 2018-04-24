@@ -192,8 +192,22 @@ header{
     clear: right;
 }
 
+.list-group-membership{
+    margin-top: 10px;
+}
+
 .list-group-membership li{
     font-size: 17.5px;
+}
+
+.beer-bottle{
+    float:right;
+}
+
+/*----------------Contact Page------------------*/
+
+.contact-details-header{
+   font-size: 30px; 
 }
 
 /*----------------Footer Nav--------------------*/
