@@ -58,9 +58,9 @@ Tests and Fixes:
 
 The project was tested to ensure integrity accross all platforms. 
 
-Include HTML Validator Result Link (https://validator.w3.org/)
-Include CSS Validator Result Link (https://jigsaw.w3.org/css-validator/)
+***Include HTML Validator Result Link (https://validator.w3.org/)
 
+***Include CSS Validator Result Link (https://jigsaw.w3.org/css-validator/)
 
 ***Use Git & GitHub for version control. Each new piece of functionality should be in a separate commit (did not maintain good version control practice)
 
